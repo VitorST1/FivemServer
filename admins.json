@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Turqueti",
+    "master": true,
+    "password_hash": "$2a$11$NMJSVtldrZ1bNd9t07hJL.SkJQTiFt.MqPkoWm/Ea7OKcwh9xnpGi",
+    "providers": {
+      "citizenfx": {
+        "id": "Turqueti",
+        "identifier": "fivem:2683217",
+        "data": {}
+      },
+      "discord": {
+        "id": "572532690792874009",
+        "identifier": "discord:572532690792874009",
+        "data": {}
+      }
+    },
+    "permissions": []
+  }
+]
